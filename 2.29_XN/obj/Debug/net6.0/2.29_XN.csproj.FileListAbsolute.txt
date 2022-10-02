@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\bin\Debug\net6.0\2.29_XN.exe
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\bin\Debug\net6.0\2.29_XN.deps.json
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\bin\Debug\net6.0\2.29_XN.runtimeconfig.json
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\bin\Debug\net6.0\2.29_XN.dll
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\bin\Debug\net6.0\2.29_XN.pdb
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.AssemblyInfo.cs
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.dll
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\refint\2.29_XN.dll
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.pdb
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\2.29_XN.genruntimeconfig.cache
+C:\Users\artem\source\repos\2.29_XN\2.29_XN\obj\Debug\net6.0\ref\2.29_XN.dll
